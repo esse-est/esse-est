@@ -1,12 +1,5 @@
-hi!
-im @alittles1lly on most platforms
+hi! <br/>
 
+im alittles1lly or r1shh on most platforms. working in rust/python/gdscript usually. <br/> daily drive arch x86_64 with plasma. i <3 161 and the pink opaque. <br/>
 
-working in rust/python/gdscript for the most part
-
-
-daily drive arch x86_64 with plasma
-
-
-i <3 161
-pink opaque honorary member
+___
